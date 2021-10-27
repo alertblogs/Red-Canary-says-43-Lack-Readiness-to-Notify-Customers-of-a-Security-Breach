@@ -29,7 +29,8 @@ Effective incident response requires, not only sending the right information to 
 Source:https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
 
 
-readmore:https://alertops.com/covid-pandemic-business-continuity/
+readmore:
+https://alertops.com/covid-pandemic-business-continuity/
 https://alertops.com/stakeholder-communications-plan/
 https://alertops.com/incident-management-metrics/
 https://alertops.com/incident-management-process/
