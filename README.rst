@@ -1,3 +1,5 @@
+ https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+ 
  The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them.
 
 The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
@@ -25,8 +27,7 @@ Effective incident response requires, not only sending the right information to 
 
 1 Red Canary 2021 Threat Detection Report
 
-
-Source:https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+Source:
 
 
 readmore:
