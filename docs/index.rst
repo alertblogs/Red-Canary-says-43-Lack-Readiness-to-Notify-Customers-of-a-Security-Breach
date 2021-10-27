@@ -1,9 +1,6 @@
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
-
-Red Canary says 43% Lack Readiness to Notify Customers of a Security Breach
  The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them.
- 
- The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+
+The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
 Not One Size Fits All
 
 Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
@@ -25,3 +22,20 @@ Alerts are only useful if they contain information relevant to the user. With Al
 Conclusion
 
 Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+
+1 Red Canary 2021 Threat Detection Report
+
+
+Source:https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+
+
+readmore:https://alertops.com/covid-pandemic-business-continuity/
+https://alertops.com/stakeholder-communications-plan/
+https://alertops.com/incident-management-metrics/
+https://alertops.com/incident-management-process/
+https://alertops.com/it-process-automation-for-managed-service-providers/
+https://alertops.com/application-performance-monitoring/
+https://alertops.com/alertops-expert-guidance/
+https://alertops.com/alertops-automation/
+https://alertops.com/it-monitoring/
+https://alertops.com/alertops-flexibility/
