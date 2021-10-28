@@ -1,4 +1,4 @@
- https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+ <a href="https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/"></a>
  
  The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them.
 
