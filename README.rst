@@ -1,59 +1,57 @@
-Red Canary says 43% Lack Readiness to Notify Customers of a Security Breach
-========
+Do you think no-code is just another buzzword with no real meaning? Well, maybe it is in some contexts. But if you want an example of how no-code solutions can matter in the real world, look no further than the context of incident management.
 
- 
- The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them.
+Let us explain by walking through what no-code solutions mean in the context of incident management, how they work and how they can help teams scale and streamline their operations.
 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+What are no-code solutions for incident management?
+====
+For incident management teams, no-code solutions mean pretty much what they sound like: They are any type of tool that lets engineers do their work or configure their tools without having to write actual code.
 
-Not One Size Fits All
-========
+There are multiple components of incident management in which no-code solutions can come in handy. Perhaps the most important is integration with third-party tools. Traditionally, configuring an incident management platform to work with third-party tools required significant time to write out and test custom configurations. The integration for each tool required a different configuration, so this manual coding effort would have to be repeated for each tool with which you wanted to connect.
 
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+With no-code incident management integrations, however, teams can integrate incident management tools with third-party solutions without having to write any code at all, or spending time testing and debugging that code. Instead, engineers can use open APIs to deploy the integrations they desire in a few simple steps.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+The benefits of no-code integrations for incident management
+=====
+You may be thinking: “My incident management engineers are skilled technical staff. Writing out code to deploy integrations is not going to kill them.”
 
-Automate Processes
-========
+That may be true. Many incident management staff do indeed have the skills required to write integration code manually. But some do not – or they do, but they are rusty at it, because coding is not their primary job responsibility.
 
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Thus, the ability of no-code integrations that allow anyone, regardless of programming expertise, to connect incident management operations to third-party tooling is one of their key advantages.
 
-Clarity
-========
+But that’s not the only benefit of no-code solutions for incident management. Another major advantage is that no-code integrations simply allow incident management to scale, because they make it possible to deploy as many integrations as needed, very quickly.
 
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+If you have to write code to set up an integration, your ability to scale incident management will depend on how quickly you can write that code (not to mention how long it takes you to read through the documentation necessary to write the code). Thus, every time you need to extend your monitoring operations to support a new cloud (as one example), or when you decide to switch to a different log aggregation and analysis tool (as another), you would need to pause and write code to deploy the requisite integration.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
- 
-Insightful Notifications
-========
+With the help of no-code integrations, however, there is no waiting. Integrations can be deployed very quickly, with little effort or special expertise on the part of IT staff. As a result, incident management operations can scale as quickly as the infrastructure or applications that they need to support.
 
+Other benefits of no-code integrations
+====
+Speed and scalability are the main benefits of no-code integrations for incident management, but the list goes on. Consider also these reasons to take advantage of no-code solutions:
 
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+Future-proofing: When you can deploy new integrations quickly, you have confidence that you’ll be able to adapt to whichever tooling or infrastructure changes come your way in the future. You won’t have to worry about not being able to support something new because you haven’t yet had time to set up the integration.
 
-Conclusion
-========
+Turnover: Incident management staff come and go. That’s a problem if only certain staff members know how to write integrations for certain tools, and they leave. But with no-code solutions, anyone on the team can deploy and manage the integration.
 
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Freedom from lock-inHaving to spend time writing code to deploy integrations can mean that you end up locked into the integrations you currently have. Because you don’t have time to create new ones, you can’t switch. With no-code integrations, this limitation goes away.
 
-1 Red Canary 2021 Threat Detection Report
+By now, you can probably tell that we love no-code integrations. That’s why we’ve made them a core feature of the AlertOps platform. To learn more, and to see step-by-step examples of how to set up integrations for AlertOps without writing any code, check out our Integrations
 
 Source:
 ========
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach
-
+https://alertops.com/no-code-integrations/
 readmore:
 ========
 
-https://alertops.com/covid-pandemic-business-continuity
-https://alertops.com/stakeholder-communications-plan
-https://alertops.com/incident-management-metrics
-https://alertops.com/incident-management-process
-https://alertops.com/it-process-automation-for-managed-service-providers
-https://alertops.com/application-performance-monitoring
-https://alertops.com/alertops-expert-guidance
-https://alertops.com/alertops-automation
-https://alertops.com/it-monitoring
-https://alertops.com/alertops-flexibility
+https://alertops.com/outage-or-breach/
+https://alertops.com/incident-management-metrics/
+https://alertops.com/incident-management-process/
+https://alertops.com/alertops-software-appoints/
+https://alertops.com/itnation/
+https://alertops.com/black-friday-win/
+https://alertops.com/managed-service-provider/
+https://alertops.com/managed-service-provider/
+https://alertops.com/on-call-support/
+https://alertops.com/on-call-management/
+https://alertops.com/network-operations-center/
+https://alertops.com/noc-best-practices/
+https://alertops.com/noc-dashboard-examples/
